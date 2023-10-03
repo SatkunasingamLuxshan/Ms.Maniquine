@@ -1,0 +1,26 @@
+Group Name  : Ms.Maniquine
+
+Group Members:
+	Satkunasingam Luxshan	ICT/17/18/036 	4164
+	Mhm.Manaseer		ICT/17/18/041	4168
+	Mathurantha Kanthakumar	ICT/17/18/029	4159
+	Mathinuya Navarasa	ICT/17/18/044	4170
+	Sobiya Anton		ICT/17/18/062	4186
+
+Here, we attached gmail address and password details for login:
+	User:	
+		email: mathura@gmail.com
+		Pw   : Mathu123@#$
+
+	Admin:
+		email: admin@admin.com
+		pw   : abcd
+	
+	
+		
+
+
+
+
+
+
